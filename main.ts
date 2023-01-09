@@ -1,5 +1,4 @@
 basic.showString("Druecke Taste A")
-basic.pause(708)
 while (true) {
     if (input.buttonIsPressed(Button.A)) {
         basic.showLeds(`
